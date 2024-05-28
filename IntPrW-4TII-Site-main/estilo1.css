@@ -1,0 +1,36 @@
+
+.container { 
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+.body { 
+    background-color: white; 
+    color: black; 
+    font-family: Arial, sans-serif; 
+}
+.product-image { 
+    width: 80%; 
+    height: auto; 
+    border-radius: 5px; 
+    margin-bottom: 20px; 
+    align-self: left;
+}
+    
+.product-name { 
+    font-size: 2rem; 
+    margin-bottom: 10px; 
+    }
+    
+.product-description { 
+    font-size: 1.1rem; 
+    line-height: 1.5; 
+    margin-bottom: 20px; 
+    }
+    
+.highlight { 
+    background-color: black; 
+    color: white; 
+    padding: 5px 10px; 
+    border-radius: 5px; 
+    }
